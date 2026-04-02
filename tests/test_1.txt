@@ -1,0 +1,7 @@
+# Test file for 1.txt
+
+# This is a placeholder test file to ensure that 1.txt exists.
+
+def test_file_exists():
+    import os
+    assert os.path.isfile('1.txt'), '1.txt file does not exist.'
