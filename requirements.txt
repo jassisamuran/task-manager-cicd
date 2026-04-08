@@ -1,0 +1,14 @@
+# Requirements
+
+This file lists the dependencies required for the project.
+
+- package1==1.0.0
+- package2==2.0.0
+- package3==3.0.0
+
+# Usage
+
+To install the dependencies, run:
+```
+pip install -r requirements.txt
+```
